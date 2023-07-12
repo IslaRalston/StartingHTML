@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["index.fc04bf25.css","style.css"],"sourcesContent":["span {\n  color: #4f1486;\n  font-size: 25px;\n  font-weight: bold;\n}\n\n/*# sourceMappingURL=index.fc04bf25.css.map */\n","span {\n  font-weight: bold;\n  color: #4f1486;\n  font-size: 25px;\n}\n"],"names":[],"version":3,"file":"index.fc04bf25.css.map"}
