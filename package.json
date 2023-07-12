@@ -1,14 +1,15 @@
 {
   "name": "startinghtml",
   "version": "1.0.0",
-  "main": "index.html",
   "repository": "https://github.com/IslaRalston/StartingHTML",
   "author": "IslaRalston <138975667+IslaRalston@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "parcel": "^2.9.3"
   },
   "scripts": {
-    "start": "lite-server"
+    "start": "lite-server",
+    "build": "parcel index.html"
   }
 }
