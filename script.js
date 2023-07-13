@@ -7,3 +7,4 @@ function showAns2() {
   const button = document.getElementById("b2");
   button.classList.add("hidden");
 }
+window.showAns2 = showAns2;
