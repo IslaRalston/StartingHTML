@@ -4,4 +4,21 @@ span {
   font-weight: bold;
 }
 
+.qAndA {
+  color: #f0f8ff;
+  background-color: #008b8b;
+  border: 1px solid #adff2f;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
 /*# sourceMappingURL=index.3a01df49.css.map */

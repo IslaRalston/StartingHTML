@@ -3,3 +3,18 @@ span {
   color: #4f1486;
   font-size: 25px;
 }
+.qAndA {
+  margin-bottom: 10px;
+  border: 1px solid greenyellow;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: darkcyan;
+  color: aliceblue;
+}
+
+.hidden {
+  visibility: hidden;
+}
+.visible {
+  visibility: visible;
+}

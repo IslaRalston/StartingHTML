@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS;IACP,MAAM,UAAU,SAAS,eAAe;IACxC,QAAQ,UAAU,OAAO;AAC3B","sources":["script.js"],"sourcesContent":["function showAns2() {\n  const element = document.getElementById(\"q2\");\n  element.classList.remove(\"hidden\");\n}\n"],"names":[],"version":3,"file":"index.672d4772.js.map","sourceRoot":"/__parcel_source_root/"}

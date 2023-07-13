@@ -1998,7 +1998,7 @@
 64/workspaces/StartingHTML/node_modules/@parcel/fs/src/MemoryFS.js1689169762763999000 0
 65/workspaces/StartingHTML/node_modules/@swc/helpers/_/_ts_metadata1689169790707399800 1
 65/workspaces/StartingHTML/node_modules/semver/functions/compare.js1689169764154999000 0
-35/workspaces/StartingHTML/.gitignore1689167657759399800 0
+35/workspaces/StartingHTML/.gitignore1689174915110048500 0
 73/workspaces/StartingHTML/node_modules/@parcel/config-default/package.json1689169763104000000 0
 65/workspaces/StartingHTML/node_modules/@parcel/events/lib/index.js1689169762776999000 0
 67/workspaces/StartingHTML/node_modules/@parcel/namer-default/LICENSE1689169765762000000 0
@@ -2416,7 +2416,7 @@
 78/workspaces/StartingHTML/node_modules/@parcel/core/test/PackagerRunner.test.js1689169762769000000 0
 89/workspaces/StartingHTML/node_modules/@babel/highlight/node_modules/color-convert/LICENSE1689169778405999000 0
 82/workspaces/StartingHTML/node_modules/caniuse-lite/data/features/resizeobserver.js1689169768170000000 0
-40/workspaces/StartingHTML/dist/index.html1689173767962048500 0
+40/workspaces/StartingHTML/dist/index.html1689174578526048500 0
 69/workspaces/StartingHTML/node_modules/@parcel/utils/src/bundle-url.js1689169763476000000 0
 134/workspaces/StartingHTML/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/node_modules/parcel-config-local/package.json1689169762769000000 0
 84/workspaces/StartingHTML/node_modules/@parcel/core/lib/requests/AssetGraphRequest.js1689169762769000000 0
@@ -2826,7 +2826,7 @@
 64/workspaces/StartingHTML/node_modules/@parcel/optimizer-svgo/src1689169789007399800 1
 85/workspaces/StartingHTML/node_modules/@parcel/fs-search/fs-search.linux-x64-musl.node1689169763556999000 0
 70/workspaces/StartingHTML/node_modules/msgpackr-extract/src/extract.cpp1689169768667999000 0
-29/workspaces/StartingHTML/dist1689173767962048500 1
+29/workspaces/StartingHTML/dist1689174578530048500 1
 70/workspaces/StartingHTML/node_modules/@parcel/events/src/Disposable.js1689169762776999000 0
 87/workspaces/StartingHTML/node_modules/@parcel/optimizer-htmlnano/node_modules/.bin/svgo1689170970639399800 0
 61/workspaces/StartingHTML/node_modules/@parcel/fs/package.json1689169762763999000 0
